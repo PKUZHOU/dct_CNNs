@@ -1,0 +1,1 @@
+python quant.py --config dct_r18_qdrop.yaml
