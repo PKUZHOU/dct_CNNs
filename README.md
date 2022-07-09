@@ -1,5 +1,5 @@
 
-# An example of training and quantize resnet-18 in the frequency domain.
+# An example of training and quantizing resnet-18 in the frequency (dct) domain.
 
 ## Dependence:
 
