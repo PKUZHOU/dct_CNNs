@@ -11,9 +11,9 @@
 
 > We train the dct-input networks based on the official pretrained pytorch model
 
-    Resnet-18: Acc@1 69.644 Acc@5 88.982
+    Original Resnet-18: Acc@1 69.644 Acc@5 88.982
     
->  Load the dct-input Resnet-18 model using the pretrained weights 
+>  Train the dct-input Resnet-18 model using the pretrained weights 
 
     bash dct_train.sh
 
